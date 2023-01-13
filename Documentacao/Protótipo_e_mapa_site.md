@@ -19,7 +19,8 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
 * Primeiro Esboço do Projeto: 
 
-![Esboço do projeto](imagens/esboço/Esboço_Inicial.drawio.png)
+![1º Esboço do projeto](imagens/esboço/Esboço_Inicial.drawio.png)
+<img src="imagens/esboço/Esboço_Inicial.drawio.png" alt="1º Esboço do projeto" width="200"/>
 
 C2 : User Interface
 Describe how you will organize infomation in the website. Remember that your website needs to be responsive. Please go "Mobile first"
