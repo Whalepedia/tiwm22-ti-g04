@@ -24,7 +24,7 @@ No projeto foi incluida um formulário na página Inicial (index) para que os us
 
 O projeto também conta com 1 documento XML e seu respetivo schema para validação (XSD), o qual está integrado de forma orgânica parcialmente ao HTML, como consta na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. Taç integração foi feita utilizando a linguagem de programação Javascript e o CSS. Neste caso específico, optou-se por acrescentar a integração do XML a página de alimentação, slide 1, para guardar as informações da tabela apresentada. 
 
-Segue abaixo, a listagem de todas as páginas estáticas do projeto.
+Segue abaixo, a listagem de todas as páginas estáticas do projeto:
 
 - [Página inicial (index)](https://tiwm22-ti-g04.netlify.app/index.html)
 
@@ -37,7 +37,7 @@ Segue abaixo, a listagem de todas as páginas estáticas do projeto.
 - [Página Curiosidades](https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html)
 
 
-O projeto obedeceu aos requisitos mínimos previstos no critério avaliativo, como se verificará em [Apresentação](Apresenta%C3%A7%C3%A3o.md) 
+O projeto obedeceu aos requisitos mínimos previstos no critério avaliativo, como se verificará em [Apresentação](Apresenta%C3%A7%C3%A3o.md). 
 
 
 
