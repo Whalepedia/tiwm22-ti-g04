@@ -50,8 +50,8 @@ O projeto foi constituído de forma a ter todas as páginas integradas entre si,
 
 | Sitemap      | Descrição |
 | ----------- | ----------- |
-| <img src="imagens/esboço/sitemap2.jpeg" alt="1º Esboço do Sitemap" width="300"/>   | Primeiro esboço feito, sendo visualmente mais "caótico" de visualização, mas que demonstra a usabilidade do site     |
-| <img src="imagens/esboço/sitemap1.png" alt="2º Esboço do Sitemap" width="500"/>    | Segundo esboço feito, sendo visualmente mais confortável de ler que a primeira versão e aprimora o entendimento de usabilidade do site |
+| <img src="imagens/esboço/sitemap2.jpeg" alt="1º Esboço do Sitemap" width="400"/>   | Primeiro esboço feito, sendo visualmente mais "caótico" de visualização, mas que demonstra a usabilidade do site.     |
+| <img src="imagens/esboço/sitemap1.png" alt="2º Esboço do Sitemap" width="400"/>    | Segundo esboço feito, sendo visualmente mais confortável de ler que a primeira versão e aprimora o entendimento de usabilidade do site. |
 
 
 
