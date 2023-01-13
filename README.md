@@ -32,6 +32,14 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 | Syntax      | Description |
 | ----------- | ----------- |
+| ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
 
