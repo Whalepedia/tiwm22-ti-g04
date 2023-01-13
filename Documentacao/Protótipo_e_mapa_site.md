@@ -33,7 +33,7 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
 # Wireframes:
 
-| Celular      | Desktop/Notebook/entre outros |
+| Página | Celular      | Desktop/Notebook/entre outros |
 | ----------- | ----------- |
 | Página index | <img src="imagens/esboço/Esboço_index_mobile.jpeg" alt="Esboço_index_mobile" width="200"/>      | <img src="imagens/esboço/Esboço_Index.jpeg" alt="Esboço_index" width="400"/>       |
 | Página Espécies | <img src="imagens/esboço/Esboço_especies_mobile.jpeg" alt="Esboço_espécies_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_especies.jpeg" alt="Esboço_espécies" width="400"/>        |
