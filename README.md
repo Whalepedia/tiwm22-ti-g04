@@ -43,9 +43,7 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 | Página     | Imagem |
 | ----------- | ----------- |
-| Visualização da página inicial (Index) em Celular    | <img src="Documentacao/imagens/Imagens%20do%20site/mobile01.jpeg" alt="Mostra a página index mobile" width="200"/>
-<img src="Documentacao/imagens/Imagens%20do%20site/mobile02.jpeg" alt="Mostra a página index mobile" width="200"/>
-<img src="Documentacao/imagens/Imagens%20do%20site/mobile03.jpeg" alt="Mostra a página index mobile" width="200"/>    |
+| Visualização da página inicial (Index) em Celular    | <img src="Documentacao/imagens/Imagens%20do%20site/mobile01.jpeg" alt="Mostra a página index mobile" width="200"/> <img src="Documentacao/imagens/Imagens%20do%20site/mobile02.jpeg" alt="Mostra a página index mobile" width="200"/> <img src="Documentacao/imagens/Imagens%20do%20site/mobile03.jpeg" alt="Mostra a página index mobile" width="200"/>    |
 
 
 
