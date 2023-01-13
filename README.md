@@ -14,7 +14,7 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 - As documentações pertinentes ao relatório encontram-se na Pasta [Documentacao](Documentacao)
 
-- As imagens constantes no relatório encontram-se na Pasta [Documentacao](Documentacao/imagens/)
+- As imagens constantes no relatório encontram-se em Documentacao na Pasta [imagens](Documentacao/imagens/)
 
 - O Código-fonte encontra-se na Pasta [src](src).
 
