@@ -39,6 +39,13 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 | Página Curiosidades     | ![Mostra a página Curiosidades](Documentacao/imagens/Imagens%20do%20site/página%20curiosidades%20parte%201.jpeg) ![Mostra a página Curiosidades](Documentacao/imagens/Imagens%20do%20site/página%20curiosidades%20parte%202.jpeg)       |
 
 
+* Na tabela abaixo, traz-se um exemplo de visualização das páginas para telefone:
+
+| Página     | Imagem |
+| ----------- | ----------- |
+| Visualização da página inicial (Index) em Celular    | ![Mostra a página index mobile](Documentacao/imagens/Imagens%20do%20site/mobile01.jpeg) ![Mostra a página index mobile](Documentacao/imagens/Imagens%20do%20site/mobile02.jpeg) ![Mostra a página index mobile](Documentacao/imagens/Imagens%20do%20site/mobile03.jpeg)     |
+
+
 
 # Tecnologias utilizadas:
 
