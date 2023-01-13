@@ -17,10 +17,13 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
  O projeto foi planejado para simular o fundo do oceano e a flutuação dos "objetos" na água. Todas as páginas idealmente seriam interligadas entre si, podendo-se acessar qualquer uma dela através da navegação do topo de todas as páginas. 
 
-* Primeiro Esboço do Projeto: 
+* Primeiro Esboço do Projeto para mobile:
+  
+<img src="imagens/esboço/Esboço_Inicial_mobile.drawio.png" alt="1º Esboço do projeto" width="300"/>
 
-![1º Esboço do projeto](imagens/esboço/Esboço_Inicial.drawio.png)
-<img src="imagens/esboço/Esboço_Inicial.drawio.png" alt="1º Esboço do projeto" width="200"/>
+* Primeiro Esboço do Projeto para computadores:
+
+<img src="imagens/esboço/Esboço_Inicial.drawio.png" alt="1º Esboço do projeto" width="300"/>
 
 C2 : User Interface
 Describe how you will organize infomation in the website. Remember that your website needs to be responsive. Please go "Mobile first"
