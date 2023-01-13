@@ -26,15 +26,15 @@ O projeto também conta com 1 documento XML e seu respetivo schema para validaç
 
 Segue abaixo, a listagem de todas as páginas estáticas do projeto:
 
-- [Página inicial (index)](https://tiwm22-ti-g04.netlify.app/index.html), [Código HTML](../src/index.html) [Código CSS](../src/styles/index.css)
+- [Página inicial (index)](https://tiwm22-ti-g04.netlify.app/index.html): [Código HTML](../src/index.html), [Código CSS](../src/styles/index.css).
 
-- [Página Espécies](https://tiwm22-ti-g04.netlify.app/pages/especies.html), [Código HTML](../src/pages/especies.html) [Código CSS](../src/styles/escecies.css)
+- [Página Espécies](https://tiwm22-ti-g04.netlify.app/pages/especies.html): [Código HTML](../src/pages/especies.html), [Código CSS](../src/styles/escecies.css).
 
-- [Página Alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), [Código HTML](../src/pages/alimentacao.html) [Código CSS](../src/styles/alimentacao.css)
+- [Página Alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html): [Código HTML](../src/pages/alimentacao.html), [Código CSS](../src/styles/alimentacao.css).
 
-- [Página Reprodução](https://tiwm22-ti-g04.netlify.app/pages/reproducao.html), [Código HTML](../src/pages/reproducao.html) [Código CSS](../src/styles/common.css)
+- [Página Reprodução](https://tiwm22-ti-g04.netlify.app/pages/reproducao.html): [Código HTML](../src/pages/reproducao.html), [Código CSS](../src/styles/common.css).
 
-- [Página Curiosidades](https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html), [Código HTML](../src/pages/curiosidades.html) [Código CSS](../src/styles/common.css)
+- [Página Curiosidades](https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html): [Código HTML](../src/pages/curiosidades.html), [Código CSS](../src/styles/common.css).
 
 
 O projeto obedeceu aos requisitos mínimos previstos no critério avaliativo, como se verificará em [Apresentação](Apresenta%C3%A7%C3%A3o.md). 
