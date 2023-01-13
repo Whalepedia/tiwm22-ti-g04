@@ -35,11 +35,11 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
 | Celular      | Desktop/Notebook/entre outros |
 | ----------- | ----------- |
-| <img src="imagens/esboço/Esboço_index_mobile.jpeg" alt="Esboço_index_mobile" width="300"/>      | <img src="imagens/esboço/Esboço_Index.jpeg" alt="Esboço_index" width="300"/>       |
-| <img src="imagens/esboço/Esboço_especies_mobile.jpeg" alt="Esboço_espécies_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_especies.jpeg" alt="Esboço_espécies" width="300"/>        |
-| <img src="imagens/esboço/Esboço_alimentação_mobile.jpeg" alt="Esboço_alimentação_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_alimentação.jpeg" alt="Esboço_alimentação" width="300"/>        |
-| <img src="imagens/esboço/Esboço_reprodução_mobile.jpeg" alt="Esboço_reprodução_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_reprodução.jpeg" alt="Esboço_reprodução" width="300"/>        |
-| <img src="imagens/esboço/Esboço_curiosidades_mobile.jpeg" alt="Esboço_curiosidades_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_curiosidades.jpeg" alt="Esboço_curiosidades" width="300"/>        |
+| <img src="imagens/esboço/Esboço_index_mobile.jpeg" alt="Esboço_index_mobile" width="200"/>      | <img src="imagens/esboço/Esboço_Index.jpeg" alt="Esboço_index" width="400"/>       |
+| <img src="imagens/esboço/Esboço_especies_mobile.jpeg" alt="Esboço_espécies_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_especies.jpeg" alt="Esboço_espécies" width="400"/>        |
+| <img src="imagens/esboço/Esboço_alimentação_mobile.jpeg" alt="Esboço_alimentação_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_alimentação.jpeg" alt="Esboço_alimentação" width="400"/>        |
+| <img src="imagens/esboço/Esboço_reprodução_mobile.jpeg" alt="Esboço_reprodução_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_reprodução.jpeg" alt="Esboço_reprodução" width="400"/>        |
+| <img src="imagens/esboço/Esboço_curiosidades_mobile.jpeg" alt="Esboço_curiosidades_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_curiosidades.jpeg" alt="Esboço_curiosidades" width="400"/>        |
 
 
 
