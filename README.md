@@ -1,7 +1,7 @@
 # tiwm22-ti-g04
 
 
-Este projeto foi desenvolvido como forma avaliativa para a matéria de Tecnologias da Internet, pertinente ao curso de Tecnologias da Informação, Web e Multimédia do Instituto Politécnico da Maia - IPMAIA. O projeto foi desenvolvido por: @Monster1001, @amanda-sato e @AnaC-Mota. 
+Este projeto foi desenvolvido como forma avaliativa para a matéria de Tecnologias da Internet, pertinente ao curso de Tecnologias da Informação, Web e Multimédia do Instituto Politécnico da Maia - IPMAIA. O projeto foi desenvolvido por: - [Amanda Reiko de Oliveira Sato](https://github.com/amanda-sato), [Ana Clara Mota](https://github.com/AnaC-Mota), [Maximiliano Lopes](https://github.com/Monster1001).
 
 # Pequena descrição sobre o tema:
 
@@ -48,7 +48,7 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 Nenhuma foi utilizada na confecção deste projeto.
 
-# Relatório:
+## Relatório:
 
 # Apresentação do projeto: 
  
