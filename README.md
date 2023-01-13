@@ -10,32 +10,32 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Organização do Repositório:
 
-O Código-fonte encontra-se na Pasta src.
+- O Código-fonte encontra-se na Pasta src.
 
-O documento XML e XSD está na Pasta src, dentro da Pasta data.
+- O documento XML e XSD está na Pasta src, dentro da Pasta data.
 
-As imagens estão na Pasta src, dentro da Pasta images.
+- As imagens estão na Pasta src, dentro da Pasta images.
 
-As páginas secundárias do projeto (todas exceto o index.html) estão na pasta src, dentro da pasta pages.
+- As páginas secundárias do projeto (todas exceto o index.html) estão na pasta src, dentro da pasta pages.
 
-Os scrips escritos em JavaScript estão nas pasta src, dentro da pasta scripts.
+- Os scrips escritos em JavaScript estão nas pasta src, dentro da pasta scripts.
 
-Os documentos css estão nas pasta src, dentro da pasta styles.
+- Os documentos css estão nas pasta src, dentro da pasta styles.
 
-A página index.html está dentro da Pasta src.
+- A página index.html está dentro da Pasta src.
 
-O Relatório encontra-se no README.md
+- O Relatório encontra-se no README.md
 
 # Galeria 1:
 
 
 # Tecnologias utilizadas:
 
-XML
-XSD
-DOM
-HTML5 + CSS3
-Javascript
+- XML
+- XSD
+- DOM
+- HTML5 + CSS3
+- Javascript
 (adicionar mais a medida que forem incrementadas)
 
 # Frameworks e bibliotecas:
@@ -66,15 +66,15 @@ Além disso, o site será do tipo informativo/blog, dividido em 5 páginas está
 O design das páginas será criada de acordo com o tema escolhido e deverá apresentar aparência de “fundo do oceano”. O conteúdo terá prioritariamente, mas não exclusivamente, dois meios de comunicação, utilizando-se de imagens e de textos. Também contará com gif e indicações de vídeos na plataforma Youtube e outras páginas web. Além disso, caso o usuário deseje aprofundar informações, poderá enviar um e-mail solicitando mais informações sobre o tema para o endereço de e-mail da Whalepédia.
 O projeto também contará com 1 documento XML e seu respetivo schema para validação, o qual deverá estar integrado de forma orgânica parcialmente, ou em sua totalidade, com pelo menos uma das páginas HTML utilizando a linguagem de programação Javascript e CSS. O projeto obedecerá aos requisitos mínimos previstos no critério avaliativo. 
 
-Página inicial (index): https://tiwm22-ti-g04.netlify.app/index.html
+- Página inicial (index): https://tiwm22-ti-g04.netlify.app/index.html
 
-Página Espécies: https://tiwm22-ti-g04.netlify.app/pages/especies.html
+- Página Espécies: https://tiwm22-ti-g04.netlify.app/pages/especies.html
 
-Página Alimentação: https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html
+- Página Alimentação: https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html
 
-Página Reprodução: https://tiwm22-ti-g04.netlify.app/pages/reproducao.html
+- Página Reprodução: https://tiwm22-ti-g04.netlify.app/pages/reproducao.html
 
-Página Curiosidades: https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html
+- Página Curiosidades: https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html
 
 
 # Interface de usuário:
@@ -91,9 +91,9 @@ Página Curiosidades: https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html
 
 # Equipe:
 
-Amanda Reiko de Oliveira Sato @amanda-sato
-Ana Clara Mota @AnaC-Mota
-Maximiliano Lopes @Monster1001
+- Amanda Reiko de Oliveira Sato @amanda-sato
+- Ana Clara Mota @AnaC-Mota
+- Maximiliano Lopes @Monster1001
 
 
 
