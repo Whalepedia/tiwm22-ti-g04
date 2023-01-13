@@ -59,11 +59,12 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 - DOM
 - HTML5 + CSS3
 - Javascript
-(adicionar mais a medida que forem incrementadas)
+- Ajax (jQuery)
+- Json
 
 # Frameworks e bibliotecas:
 
-Nenhuma foi utilizada na confecção deste projeto.
+- jQuery: Utilização do Ajax para realizar requisições, integrando o arquivo XML à página.
 
 # Relatório:
 
