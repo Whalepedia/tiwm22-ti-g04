@@ -22,7 +22,7 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
  * Na visualização para Desktop/Notebook/entre outros, se dá da seguinte forma: Os links de navegação são dispostos lado a lado, sendo a página principal a primeira da esquerda, e seguindo a sequência especificada acima. As boxes com informação relevante também são postas lado a lado. 
 
 
-**_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**
+**_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**.
 
 ## Interface e recursos comuns
 
@@ -60,7 +60,7 @@ O projeto foi constituído de forma a ter todas as páginas integradas entre si,
 | <img src="imagens/esboço/sitemap1.png" alt="2º Esboço do Sitemap" width="500"/>    | Segundo esboço feito, sendo visualmente mais confortável de ler que a primeira versão e aprimora o entendimento de usabilidade do site. |
 
 
-**_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**
+**_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**.
 
 
 
