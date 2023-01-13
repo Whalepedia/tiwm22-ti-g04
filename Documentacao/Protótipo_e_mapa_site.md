@@ -46,6 +46,7 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
 # Sitemap
 
+O projeto foi constituído de forma a ter todas as páginas integradas entre si, onde se pode aceder a qualquer delas através daquela em que se está no momento. A navegagação entre as páginas estão localizadas principalmente na parte inicial das páginas do site. Também há um "botão" nomeado como "Saiba mais sobre ela!" constante na página principal ([index.html](../src/index.html)) que a conecta, em via única, à página [Espécies](../src/pages/especies.html). 
 
 <img src="imagens/esboço/sitemap1.png" alt="1º Esboço do Sitemap" width="500"/>
 <img src="imagens/esboço/sitemap2.jpeg" alt="2º Esboço do Sitemap" width="300"/>
