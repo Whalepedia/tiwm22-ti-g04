@@ -60,7 +60,7 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 - HTML5 + CSS3
 - Javascript
 - Ajax (jQuery)
-- Json
+  
 
 # Frameworks e bibliotecas:
 
