@@ -16,7 +16,13 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 -  5ª página: Curiosidades.
 
  O projeto foi planejado para simular o fundo do oceano e a flutuação dos "objetos" na água. Todas as páginas idealmente seriam interligadas entre si, podendo-se acessar qualquer uma dela através da navegação do topo de todas as páginas. 
+ 
+ * A diferença primordial entre a usabilidade por celulares e por Desktop/Notebook/entre outros, está concentrada principalmente na visualização dos links de navegação e nas boxes que compõe o "corpo do texto". 
+ * Enquanto nos celulares, os links aparecem um abaixo do outro, a partir do primeiro link da página principal [Whalepédia](../src/index.html), as 2 (duas) boxes que contém o conteúdo relevante do site, são dispostas uma abaixo da outra, sequencialmente, primeiro a boxe sem slides e, depois, a que contém slides. 
+ * Na visualização para Desktop/Notebook/entre outros, se dá da seguinte forma: Os links de navegação são dispostos lado a lado, sendo a página principal a primeira da esquerda, e seguindo a sequência especificada acima. As boxes com informação relevante também são postas lado a lado. 
 
+
+**Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)**
 
 ## Interface e recursos comuns
 
