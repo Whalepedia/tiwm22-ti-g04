@@ -12,9 +12,9 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Organização do Repositório:
 
-- As documentações pertinentes ao relatório encontram-se na Pasta [Documentacao](Documentacao)
+- As documentações pertinentes ao relatório encontram-se na Pasta [Documentacao](Documentacao).
 
-- As imagens constantes no relatório encontram-se em Documentacao na Pasta [imagens](Documentacao/imagens/)
+- As imagens constantes no relatório encontram-se em Documentacao na Pasta [imagens](Documentacao/imagens/).
 
 - O Código-fonte encontra-se na Pasta [src](src).
 
@@ -36,7 +36,7 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 | Páginas      | Imagens |
 | ----------- | ----------- |
-| Página principal (Index)      | ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20index%20parte%202.jpeg)       |
+| Página principal (Index)  **_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**    | ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20index%20parte%202.jpeg)       |
 | Página Espécies  | ![Mostra a página Espécies](Documentacao/imagens/Imagens%20do%20site/página%20espécies.jpeg)      |
 | Página Alimentação      | ![Mostra a página Alimentação](Documentacao/imagens/Imagens%20do%20site/página%20alimentação.jpeg)       |
 | Página Reprodução   | ![Mostra a página Reprodução](Documentacao/imagens/Imagens%20do%20site/página%20reprodução.jpeg)    |
