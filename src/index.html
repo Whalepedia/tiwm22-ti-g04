@@ -81,11 +81,10 @@
       </div>
       <form>
         <h1>Compartilhe conosco algum registro que você fez!</h1>
-        <textarea name="description" placeholder="Descreva seu registro!" cols="20" >
-        </textarea>
+        <textarea name="description" placeholder="Descreva seu registro!" cols="20" required></textarea>
         <label for="file">Anexe seu arquivo </label>
-        <input type="file" accept="image/*,video/*" name="file" id="file">
-        <input type="submit" value="Submit" id="btnsubmit">
+        <input type="file" accept="image/*,video/*" name="file" id="file" required>
+        <input type="submit" value="Submit" id="btnsubmit" onclick="Validar()">
       </form>
 
       <button onclick="topFunction()" id="myBtn" title="Go to top">	&#8682;</button>
