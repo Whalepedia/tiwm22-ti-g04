@@ -41,11 +41,11 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
 | Página | Celular      | Desktop/Notebook/entre outros |
 | ----------- | ----------- | ----------- |
-| Página index | <img src="imagens/esboço/Esboço_index_mobile.jpeg" alt="Esboço_index_mobile" width="200"/>      | <img src="imagens/esboço/Esboço_Index.jpeg" alt="Esboço_index" width="400"/>       |
-| Página Espécies | <img src="imagens/esboço/Esboço_especies_mobile.jpeg" alt="Esboço_espécies_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_especies.jpeg" alt="Esboço_espécies" width="400"/>        |
-| Página Alimentação | <img src="imagens/esboço/Esboço_alimentação_mobile.jpeg" alt="Esboço_alimentação_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_alimentação.jpeg" alt="Esboço_alimentação" width="400"/>        |
-| Página Reprodução | <img src="imagens/esboço/Esboço_reprodução_mobile.jpeg" alt="Esboço_reprodução_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_reprodução.jpeg" alt="Esboço_reprodução" width="400"/>        |
-| Página Curiosidades | <img src="imagens/esboço/Esboço_curiosidades_mobile.jpeg" alt="Esboço_curiosidades_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_curiosidades.jpeg" alt="Esboço_curiosidades" width="400"/>        |
+| Projeto da Página Index no Canvas | <img src="imagens/esboço/Esboço_index_mobile.jpeg" alt="Esboço_index_mobile" width="200"/>      | <img src="imagens/esboço/Esboço_Index.jpeg" alt="Esboço_index" width="400"/>       |
+| Projeto da Página Espécies no Canvas | <img src="imagens/esboço/Esboço_especies_mobile.jpeg" alt="Esboço_espécies_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_especies.jpeg" alt="Esboço_espécies" width="400"/>        |
+| Projeto da Página Alimentação no Canvas | <img src="imagens/esboço/Esboço_alimentação_mobile.jpeg" alt="Esboço_alimentação_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_alimentação.jpeg" alt="Esboço_alimentação" width="400"/>        |
+| Projeto da Página Reprodução no Canvas | <img src="imagens/esboço/Esboço_reprodução_mobile.jpeg" alt="Esboço_reprodução_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_reprodução.jpeg" alt="Esboço_reprodução" width="400"/>        |
+| Projeto da Página Curiosidades no Canvas | <img src="imagens/esboço/Esboço_curiosidades_mobile.jpeg" alt="Esboço_curiosidades_mobile" width="200"/>   | <img src="imagens/esboço/Esboço_curiosidades.jpeg" alt="Esboço_curiosidades" width="400"/>        |
 
 
 
