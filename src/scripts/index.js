@@ -7,7 +7,9 @@
 function Colocar(){
     btn1.classList.add("colored")
 }
-
+function Validar(){
+    
+}
 
 function RetirarCheck(obj) {
     var manualClicado = document.querySelector(`#${obj}`);
