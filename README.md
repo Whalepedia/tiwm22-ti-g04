@@ -12,6 +12,10 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Organização do Repositório:
 
+- As documentações pertinentes ao relatório encontram-se na Pasta [Documentacao](Documentacao).
+
+- As imagens constantes no relatório encontram-se em Documentacao na Pasta [imagens](Documentacao/imagens/).
+
 - O Código-fonte encontra-se na Pasta [src](src).
 
 - O documento [XML](src/data/dataset.xml) e [XSD](src/data/dataset.xsd) está na Pasta src, dentro da Pasta [data](src/data).
@@ -30,18 +34,23 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Galeria 1:
 
-| Syntax      | Description |
+| Páginas      | Imagens |
 | ----------- | ----------- |
-| ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Página principal (Index)    **_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**    | ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20index%20parte%202.jpeg)       |
+| Página Espécies  | ![Mostra a página Espécies](Documentacao/imagens/Imagens%20do%20site/página%20espécies.jpeg)      |
+| Página Alimentação      | ![Mostra a página Alimentação](Documentacao/imagens/Imagens%20do%20site/página%20alimentação.jpeg)       |
+| Página Reprodução   | ![Mostra a página Reprodução](Documentacao/imagens/Imagens%20do%20site/página%20reprodução.jpeg)    |
+| Página Curiosidades     | ![Mostra a página Curiosidades](Documentacao/imagens/Imagens%20do%20site/página%20curiosidades%20parte%201.jpeg) ![Mostra a página Curiosidades](Documentacao/imagens/Imagens%20do%20site/página%20curiosidades%20parte%202.jpeg)       |
+
+
+* Na tabela abaixo, traz-se um exemplo de visualização das páginas para telefone:
+
+| Página     | Imagem |
+| ----------- | ----------- |
+| Visualização da página inicial (Index) em Celular    | <img src="Documentacao/imagens/Imagens%20do%20site/mobile01.jpeg" alt="Mostra a página index mobile" width="200"/> <img src="Documentacao/imagens/Imagens%20do%20site/mobile02.jpeg" alt="Mostra a página index mobile" width="200"/> <img src="Documentacao/imagens/Imagens%20do%20site/mobile03.jpeg" alt="Mostra a página index mobile" width="200"/>    |
+
+
+
 
 # Tecnologias utilizadas:
 
@@ -50,27 +59,28 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 - DOM
 - HTML5 + CSS3
 - Javascript
-(adicionar mais a medida que forem incrementadas)
+- Ajax (jQuery)
+  
 
 # Frameworks e bibliotecas:
 
-Nenhuma foi utilizada na confecção deste projeto.
+- jQuery: Utilização do Ajax para realizar requisições, integrando o arquivo XML à página.
 
-## Relatório:
+# Relatório:
 
-# Apresentação do projeto: 
+## Apresentação do projeto: 
  
  Capítulo 1: [Apresentação do projeto](Documentacao/Apresentação_do_projeto.md)
 
-# Interface de usuário:
+## Interface de usuário:
 
- Capítulo 2: [Protótipo de interface do usuário e mapa do site](Documentacao/Protótipo%20e%20mapa%20do%20site.md)
+ Capítulo 2: [Protótipo de interface do usuário e mapa do site](Documentacao/Prot%C3%B3tipo_e_mapa_site.md)
  
-# Produtos
+## Produtos
 
  Capítulo 3: [Produto](Documentacao/Produto.md)
 
-# Apresentação
+## Apresentação
 
  Capítulo 4: [Apresentação](Documentacao/Apresentação.md)
 
