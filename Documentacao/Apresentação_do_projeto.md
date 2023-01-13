@@ -53,6 +53,6 @@ O grupo 04 é composto por:
 
 
 ---
-_You can add a footer menu for navigation_ 
-< Previous | [^ Main](../../../) | [Next >](c2.md)
+
+< Previous | [^ Main](../README.md) | [Next >](Protótipo_e_mapa_site.md)
 :--- | :---: | ---: 
