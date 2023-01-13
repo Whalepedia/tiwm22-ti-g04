@@ -44,7 +44,11 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
 
 
+# Sitemap
 
+
+<img src="imagens/esboço/sitemap1.png" alt="1º Esboço do Sitemap" width="300"/>
+<img src="imagens/esboço/sitemap2.jpeg" alt="2º Esboço do Sitemap" width="300"/>
 
 
 
