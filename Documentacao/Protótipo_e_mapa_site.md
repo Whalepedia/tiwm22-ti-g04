@@ -17,22 +17,37 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
  O projeto foi planejado para simular o fundo do oceano e a flutuação dos "objetos" na água. Todas as páginas idealmente seriam interligadas entre si, podendo-se acessar qualquer uma dela através da navegação do topo de todas as páginas. 
 
-* Primeiro Esboço do Projeto para mobile:
+
+## Interface e recursos comuns
+
+# Sketchs: 
+
+* Primeiro Esboço do Projeto para celulares:
   
 <img src="imagens/esboço/Esboço_Inicial_mobile.drawio.png" alt="1º Esboço do projeto" width="300"/>
 
-* Primeiro Esboço do Projeto para computadores:
+* Primeiro Esboço do Projeto para Desktop/Notebook/entre outros:
 
 <img src="imagens/esboço/Esboço_Inicial.drawio.png" alt="1º Esboço do projeto" width="300"/>
 
-C2 : User Interface
-Describe how you will organize infomation in the website. Remember that your website needs to be responsive. Please go "Mobile first"
 
-Interface and Common features
-Add here your creative process results using sketchs or wireframes (or even both)
+# Wireframes:
 
-Sketchs
-Your sketch
+| Celular      | Desktop/Notebook/entre outros |
+| ----------- | ----------- |
+| <img src="imagens/esboço/Esboço_index_mobile.jpeg" alt="Esboço_index_mobile" width="300"/>      | <img src="imagens/esboço/Esboço_Index.jpeg" alt="Esboço_index" width="300"/>       |
+| <img src="imagens/esboço/Esboço_especies_mobile.jpeg" alt="Esboço_espécies_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_especies.jpeg" alt="Esboço_espécies" width="300"/>        |
+| <img src="imagens/esboço/Esboço_alimentação_mobile.jpeg" alt="Esboço_alimentação_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_alimentação.jpeg" alt="Esboço_alimentação" width="300"/>        |
+| <img src="imagens/esboço/Esboço_reprodução_mobile.jpeg" alt="Esboço_reprodução_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_reprodução.jpeg" alt="Esboço_reprodução" width="300"/>        |
+| <img src="imagens/esboço/Esboço_curiosidades_mobile.jpeg" alt="Esboço_curiosidades_mobile" width="300"/>   | <img src="imagens/esboço/Esboço_curiosidades.jpeg" alt="Esboço_curiosidades" width="300"/>        |
+
+
+
+
+
+
+
+
 
 
 
