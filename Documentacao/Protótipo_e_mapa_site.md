@@ -17,9 +17,9 @@ Como já explanado na seção anterior, "Apresentação do projeto", a ideia ori
 
  O projeto foi planejado para simular o fundo do oceano e a flutuação dos "objetos" na água. Todas as páginas idealmente seriam interligadas entre si, podendo-se acessar qualquer uma dela através da navegação do topo de todas as páginas. 
 
- 
+* Primeiro Esboço do Projeto: 
 
-
+![Esboço do projeto](imagens/esboço/Esboço_Inicial.drawio.png)
 
 C2 : User Interface
 Describe how you will organize infomation in the website. Remember that your website needs to be responsive. Please go "Mobile first"
