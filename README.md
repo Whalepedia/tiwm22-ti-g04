@@ -28,6 +28,10 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Galeria 1:
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 # Tecnologias utilizadas:
 
@@ -92,7 +96,9 @@ O projeto também contará com 1 documento XML e seu respetivo schema para valid
 # Equipe:
 
 - Amanda Reiko de Oliveira Sato @amanda-sato
+  
 - Ana Clara Mota @AnaC-Mota
+  
 - Maximiliano Lopes @Monster1001
 
 
