@@ -8,6 +8,8 @@ Este projeto foi desenvolvido como forma avaliativa para a matéria de Tecnologi
 O projeto a seguir detém como objetivo ser usado como critério avaliativo da disciplina de Tecnologias da Internet. O docente solicitou que o tema escolhido fosse pertinente a temática de "Animais" e tivesse conteúdo relevante.
 Assim, o presente trabalho terá como tema as Baleias, tendo como referência apenas alguns exemplos destes animais. Ao longo deste relatório, haverá maior debate acerca da descrição do tema, além de conter todo o processo de desenvolvimento, de acordo com os aspectos ditados pelo professor. 
 
+Organização no GitHub: [Organização no Github](https://github.com/Whalepedia)
+
 # Organização do Repositório:
 
 - O Código-fonte encontra-se na Pasta src.
