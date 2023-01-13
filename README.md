@@ -14,6 +14,8 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 - As documentações pertinentes ao relatório encontram-se na Pasta [Documentacao](Documentacao)
 
+- As imagens constantes no relatório encontram-se na Pasta [Documentacao](Documentacao/imagens/)
+
 - O Código-fonte encontra-se na Pasta [src](src).
 
 - O documento [XML](src/data/dataset.xml) e [XSD](src/data/dataset.xsd) está na Pasta src, dentro da Pasta [data](src/data).
