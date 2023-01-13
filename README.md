@@ -69,7 +69,7 @@ Nenhuma foi utilizada na confecção deste projeto.
 
 # Interface de usuário:
 
- Capítulo 2: [Protótipo de interface do usuário e mapa do site](Documentacao/Protótipo%20e%20mapa%20do%20site.md)
+ Capítulo 2: [Protótipo de interface do usuário e mapa do site](Documentacao/Prot%C3%B3tipo_e_mapa_site.md)
  
 # Produtos
 
