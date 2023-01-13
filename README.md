@@ -65,21 +65,21 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 Nenhuma foi utilizada na confecção deste projeto.
 
-## Relatório:
+# Relatório:
 
-# Apresentação do projeto: 
+## Apresentação do projeto: 
  
  Capítulo 1: [Apresentação do projeto](Documentacao/Apresentação_do_projeto.md)
 
-# Interface de usuário:
+## Interface de usuário:
 
  Capítulo 2: [Protótipo de interface do usuário e mapa do site](Documentacao/Prot%C3%B3tipo_e_mapa_site.md)
  
-# Produtos
+## Produtos
 
  Capítulo 3: [Produto](Documentacao/Produto.md)
 
-# Apresentação
+## Apresentação
 
  Capítulo 4: [Apresentação](Documentacao/Apresentação.md)
 
