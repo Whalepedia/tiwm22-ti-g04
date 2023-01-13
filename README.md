@@ -30,18 +30,14 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Galeria 1:
 
-| Syntax      | Description |
+| Site     | Description |
 | ----------- | ----------- |
-| ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+| ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20index%20parte%202.jpeg)      |
+| ![Mostra a página Espécies](Documentacao/imagens/Imagens%20do%20site/página%20espécies.jpeg) | 
+| ![Mostra a página Alimentação](Documentacao/imagens/Imagens%20do%20site/página%20alimentação.jpeg)    | 
+| ![Mostra a página Reprodução](Documentacao/imagens/Imagens%20do%20site/página%20reprodução.jpeg)  | 
+| ![Mostra a página Curiosidades](Documentacao/imagens/Imagens%20do%20site/página%20curiosidades%20parte%201.jpeg) ![Mostra a página Curiosidades](Documentacao/imagens/Imagens%20do%20site/página%20curiosidades%20parte%202.jpeg)    | 
+
 
 # Tecnologias utilizadas:
 
