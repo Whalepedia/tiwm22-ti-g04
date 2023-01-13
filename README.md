@@ -104,11 +104,11 @@ Segue abaixo, a listagem de todas as páginas estáticas do projeto.
 
 # Equipe:
 
-- Amanda Reiko de Oliveira Sato @amanda-sato
+- Amanda Reiko de Oliveira Sato [Amanda Reiko de Oliveira Sato](https://github.com/amanda-sato)
   
-- Ana Clara Mota @AnaC-Mota
+- Ana Clara Mota @AnaC-Mota [Ana Clara Mota](https://github.com/AnaC-Mota)
   
-- Maximiliano Lopes @Monster1001
+- Maximiliano Lopes @Monster1001 [Maximiliano Lopes](https://github.com/Monster1001).
 
 
 
