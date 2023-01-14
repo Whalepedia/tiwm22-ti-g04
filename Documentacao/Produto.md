@@ -8,15 +8,14 @@ _O primeiro passo foi criar uma organização no GitHub conforme solicitado pelo
 Segue lista das configurações atuais encontradas na URL(https://app.netlify.com/sites/tiwm22-ti-g04/settings/deploys) :
 #### Repository
 Current repository: github.com/Whalepedia/tiwm22-ti-g04
-#### Build settings
-Base directory: Not set
-Build command: npm run build
-Publish directory: src
+#### configuração de Build
+Diretório base: não configurado
+Comando para Build: npm run build
+Diretório público: src
 Deploy log visibility: Logs are public
-Build status: Active
+Build status: Ativo
 #### Branches
-Control which branches in your Git repository you want to deploy.
-Production branch: main
+Branch de produção: main
 Branch deploys: Deploy only the production branch
 
 ## 3.2 Uso
