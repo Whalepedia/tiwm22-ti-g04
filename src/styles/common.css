@@ -155,7 +155,15 @@ box-shadow: rgba(234, 234, 238, 0.35) 0px 5px 15px;;
   #myBtn:hover {
     background-color: rgba(231, 237, 241, 0); 
   }
-
+dt{
+    font-weight:900;
+    font-size: 2.6vh
+}
+dd{
+    font-weight:500;
+    font-size: 2.3vh;
+    text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
+}
 
 h1#topo {
 	width: 500px;
