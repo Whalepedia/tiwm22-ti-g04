@@ -354,7 +354,27 @@ Ex:
 
 ##	esconder um elemento;
 
-*           
+*  Utilizado para dar um aviso estilo alert porém criando com HTML, javascript e CSS na página [principal](../src/styles/index.html).
+### Javascript:
+
+	function desabilitarElemento(){
+    var avisoCard = document.getElementById("avisoWhatsapp")
+
+    avisoCard.classList.add("desabilitado")
+	}
+
+### HTML:	
+	 <span id="avisoWhatsapp">
+        <h1>Aviso!</h1>
+        <p>Estamos com nossa conta do Instagram em manutenção!<br/>
+          Pedimos desculpas pelo inconveniente.
+        </p>
+        <button onclick="desabilitarElemento()">OK</button>
+      </span>
+### CSS:	
+	.desabilitado{
+	  display: none;
+	}
 
 ##	formatação de uma tabela;
 
