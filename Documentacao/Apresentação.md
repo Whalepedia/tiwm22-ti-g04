@@ -25,24 +25,58 @@ Segue abaixo, a listagem de todas as páginas estáticas do projeto:
 
 ##	1 documento XML e respetivo schema para validação
 
-* O projeto também conta com 1 documento XML e seu respetivo schema para validação (XSD), o qual está integrado de forma orgânica parcialmente ao HTML, como consta na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. Tal integração foi feita utilizando a linguagem de programação Javascript e o CSS. Neste caso específico, optou-se por acrescentar a integração do XML a página de alimentação, slide 1, para guardar as informações da tabela apresentada. 
+* O projeto também conta com 1 documento [XML](../src/data/dataset.xml) e seu respetivo schema para validação ([XSD](../src/data/dataset.xsd)), o qual está integrado de forma orgânica parcialmente ao HTML, como consta na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. Tal integração foi feita utilizando a linguagem de programação Javascript e o CSS. Neste caso específico, optou-se por acrescentar a integração do XML a página de alimentação, slide 1, para guardar as informações da tabela apresentada. 
 
 
-
-
-
-
-##	Os documentos HTML deverão apresentar uma correta marcação semântica do conteúdo:	
-
-*
+#	Os documentos HTML deverão apresentar uma correta marcação semântica do conteúdo:	
 ##	uso correto dos elementos section, article, nav, aside, address, header, footer, figure, main, div, ...
 
-*
-#	Nos documentos HTML deverá existir pelo menos um exemplo de:
+* Verificação constante em: 
+Ex: <Nav>,<main>, <footer>, <address>, etc.
 
+- [Página inicial (index) Código HTML](../src/index.html).
+
+- [Página Espécies Código HTML](../src/pages/especies.html).
+
+- [Página Alimentação Código HTML](../src/pages/alimentacao.html).
+
+- [Página Reprodução Código HTML](../src/pages/reproducao.html).
+
+- [Página Curiosidades Código HTML](../src/pages/curiosidades.html).
+- 
+#	Nos documentos HTML deverá existir pelo menos um exemplo de:
 ##	tabela – com utilização de elementos/atributos thead, tbody, tfoot e rowspan e colspan;
 
-*
+* Uma table com todos os requisitos elencados, foi utilizada no código HTML da página [Alimentação](../src/pages/alimentacao.html), linhas 47 a 74.
+
+            <table>
+              <thead>
+                  <tr>
+                    <th colspan="4">Alimentação</th>
+                  </tr>
+                  <tr>
+                    <td>Nome</td>
+                    <td>Alimento</td>
+                    <td>Quantidade</td>
+                    <td>Local</td>
+                  </tr>
+              </thead>
+              <tbody id="corpoTable">
+               
+              </tbody>
+              <tfoot>
+                <tr>
+                  <td rowspan="2" colspan="2">fonte: </td>
+                  <td><a href="https://www.natgeo.pt/animais/2021/11/as-baleias-comem-tres-vezes-mais-do-que-se-pensava">Natgeo.pt</a></td>
+                  <td>tirou-se <strong>Quantidade</strong></td>
+                </tr>
+                <tr>
+                  
+                  <td><a href="https://www.quecomem.com/o-que-as-baleias-jubarte-comem/">Quecomem.com</a></td>
+                  <td>tirou-se <strong>o restante</strong></td>
+                </tr>
+              </tfoot>
+            </table>
 
 ##	listas (ordenada, não ordenada, definições) com pelo menos uma lista aninhada;
 
