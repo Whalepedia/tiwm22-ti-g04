@@ -36,6 +36,26 @@ _Não temos scripts para validação de inputs no form, apenas um REQUIRED nas t
 
 _Utilizamos o próprio validador da W3C para ambos os tipos de arquivos e como esperado, todos passaram sem erros apenas com "Info"._
 
+Segue validação da https://tiwm22-ti-g04.netlify.app/pages/
+![image](https://user-images.githubusercontent.com/95709036/212438648-26537502-4227-4de0-bf37-86fa580297a5.png)
+![image](https://user-images.githubusercontent.com/95709036/212438695-65408ade-5b4f-4338-9b50-a91f814914af.png)
+
+Segue validação da https://tiwm22-ti-g04.netlify.app/pages/especies.html
+![image](https://user-images.githubusercontent.com/95709036/212438735-27653cd9-26f9-45f9-92bd-476b22408604.png)
+![image](https://user-images.githubusercontent.com/95709036/212438763-d671c881-8425-43f2-ab33-aea6b0a61ce5.png)
+
+Segue validação da https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html
+![image](https://user-images.githubusercontent.com/95709036/212438856-511ba45f-3eeb-49c7-9f19-90946f00d221.png)
+![image](https://user-images.githubusercontent.com/95709036/212438923-c4425463-c6e7-407f-b67e-ee5425b00dd8.png)
+
+
+Segue validação da https://tiwm22-ti-g04.netlify.app/pages/reproducao.html
+![image](https://user-images.githubusercontent.com/95709036/212439025-bc10b3c8-4f5f-42ee-a6d9-17498c4a4d16.png)
+![image](https://user-images.githubusercontent.com/95709036/212439055-153c608c-389a-40bd-9541-6cbadb526c8d.png)
+
+Segue validação da https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html
+
+
 ## 3.6 Implementação de detalhes
 ○ tabela – com utilização de elementos/atributos thead, tbody, tfoot e rowspan e colspan;
     _Utilizamos uma tabela que recebe dados de um arquivo XML com seu respectivos validador.
