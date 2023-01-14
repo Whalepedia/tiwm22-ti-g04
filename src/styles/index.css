@@ -124,16 +124,16 @@ nav li {
   text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
 }
 
-#CardArea span {
-  font-weight: bolder;
-  font-size: 26.5pt;
-  text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
-}
-
 #CardArea h1 {
   font-size: 34pt;
   font-weight: bolder;
   text-shadow: rgba(255, 255, 255, 0.671) 6px 3px 1px;
+}
+#CardArea h1 + p {
+  font-size: 26pt;
+  font-weight: bolder;
+  text-align: justify;
+  text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
 }
 
 #myBtn {
