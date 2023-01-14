@@ -67,7 +67,7 @@ O projeto foi constituído de forma a ter todas as páginas integradas entre si,
 
 * Comparando-se os sketchs e wireframes de esboço do site, com o resultado final constante no README na Seção [Galeria](https://github.com/Whalepedia/tiwm22-ti-g04#galeria-1), é possível observar que a estrutura do projeto se manteve similar, trazendo algumas alterações com adaptação das cores do site, estilo de fonte e localização do link para a página principal (logotipo Whalepédia), disposta na mesma linha de navegação que os demais links das outras páginas, tendo em vista que a página principal não detém "superiodade" de facilidade de acesso a outros links quando comparada as outras páginas, mas o método de usabilidade (sitemap) permaneceu igual.
 
-Houveram alterações, principalmente, na visualização para celulares, considerando a discussão trazida na seção [Descrição](https://github.com/Whalepedia/tiwm22-ti-g04/blob/main/Documentacao/Prot%C3%B3tipo_e_mapa_site.md#descri%C3%A7%C3%A3o), em relação ao posicionamento, tendo em vista facilitar a leitura e usabilidade da página para telas menores. 
+* Houveram alterações, principalmente, na visualização para celulares, considerando a discussão trazida na seção [Descrição](https://github.com/Whalepedia/tiwm22-ti-g04/blob/main/Documentacao/Prot%C3%B3tipo_e_mapa_site.md#descri%C3%A7%C3%A3o), em relação ao posicionamento dos elementos da página, tendo em vista facilitar a leitura e usabilidade da página para telas menores. 
 
 ---
 
