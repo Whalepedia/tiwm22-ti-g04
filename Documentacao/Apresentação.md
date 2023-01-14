@@ -32,7 +32,9 @@ Segue abaixo, a listagem de todas as páginas estáticas do projeto:
 ##	uso correto dos elementos section, article, nav, aside, address, header, footer, figure, main, div, ...
 
 * Verificação constante em: 
-Ex: <Nav>,<main>, <footer>, <address>, etc.
+Ex: 
+
+        <Nav>,<main>, <footer>, <address>, etc.
 
 - [Página inicial (index) Código HTML](../src/index.html).
 
@@ -122,17 +124,18 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
  
 * As marcações de texto foram implementadas em algumas das páginas, como por exemplo [index](../src/index.html). 
             
-      <footer>
-      <address>Autores: Amanda Reiko de Oliveira Sato - 43490 <br>
-                        Ana Clara Gonçalves Mota - 43451 <br>
-                        Maximiliano Marques Lopes - 42644
-      </address>
-      <p>Copyright ©2022 All rights reserved | <strong>Whalepédia</strong> 🐋 </p>
-    </footer>
+          <footer>
+          <address>Autores: Amanda Reiko de Oliveira Sato - 43490 <br>
+                            Ana Clara Gonçalves Mota - 43451 <br>
+                            Maximiliano Marques Lopes - 42644
+          </address>
+          <p>Copyright ©2022 All rights reserved | <strong>Whalepédia</strong> 🐋 </p>
+        </footer>
 
 ##	imagens – utilização de elemento img e figure (c/ figcaption) e inserção por CSS;
 
 * Utilizado para demonstração de um GIF na página [Curiosidades](../src/pages/curiosidades.html).
+  
            <figure>
             <img src="../images/orca.gif" alt="Gif de Orcas nadando" />
             <figcaption>Orca e filhote nadando em círculos!</figcaption>
@@ -140,7 +143,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	ligações (hyperlinks internos e externos);
 
-* Utilizamos para encaminhar o usuário para a aba de especies usando um botão na guia [index](../src/index.html).
+* Utilizamos para encaminhar o usuário para a aba de espécies usando um botão na guia [index](../src/index.html).
             
               <a href="pages/especies.html" id="BotaoBaleiaAzul">
                  SAIBA MAIS SOBRE ELA!
@@ -163,6 +166,8 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 ##	formulário.
  
  * Criamos um formulário onde o usuário pode enviar (de maneira falsa) um registro de imagem e texto ambos requeridos para o envio ser realizado pelo input tipo submit.
+
+
             <form>
                     <h1>Compartilhe conosco algum registro que você fez!</h1>
                     <textarea name="description" placeholder="Descreva seu registro!" cols="20" required></textarea>
@@ -176,10 +181,15 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 * Seguem trechos dos códigos CSS da página principal [Index CSS](../src/styles/index.css).
 	
+* Tipo:
+    
             nav {
                 display: inline-flex;
                 width: 100%;
             }
+
+* Id:
+
             #BotaoBaleiaAzul {
                 background-color: rgba(255, 255, 255, 0.701);
                 position: absolute;
@@ -193,6 +203,9 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
                 letter-spacing: -1px;
                 color: #0d4691;
              }
+
+* Classe: 
+  
             .links {
                 font-weight: 800;
                 color: #002960;
@@ -203,6 +216,9 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
                 flex-direction: row;
                 justify-content: center;
             }
+
+* Atributo e Pseudo-classe:
+  
             .manual-btn:hover {
                 background-color: #05d5fe;
             }
@@ -226,6 +242,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 ##	propriedades do texto e da fonte;	
 
 * Utilizado para efetivar um estilo em um irmão de h1 no elemento de ID CardArea na página [Index CSS](../src/styles/index.css).
+  
             #CardArea h1 + p {
               font-size: 26pt;
               font-weight: bolder;
@@ -236,7 +253,8 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	formatação do fundo de página com utilização de imagem de fundo e cor de fundo;
 
-* Sua utlização foi na página principal em [Index CSS](../src/styles/index.css).
+* Sua utlização foi na página principal em [Index CSS](../src/styles/index.css):
+  
             body {
               background-image: url("../images/background-ocean.png");
               background-attachment: fixed;
@@ -254,7 +272,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	formatação de estilo para uma lista;
 
-*  utilização para a tag Nav na página principal [Index CSS](../src/styles/index.css).:
+*  utilização para a tag Nav na página principal [Index CSS](../src/styles/index.css):
 	
             nav ul {
               display: inline-flex;
@@ -357,13 +375,13 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	substituição de um elemento por uma imagem;
 
-*           Segue elemento trocado por imagem na página [Curiosidades](../src/pages/curiosidades.css)
+*           Segue elemento trocado por imagem na página [Curiosidades](../src/pages/curiosidades.css):
             
             h1#topo {
-		width: 500px;
-		height: 290px;
-		background-image: url(../images/respiração_baleias.png);
-	    }
+	          	width: 500px;
+		          height: 290px;
+		          background-image: url(../images/respiração_baleias.png);
+	            }
             
 ##	responsividade para duas dimensões de ecrã (media queries).
             
@@ -376,7 +394,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 #	Integração do conteúdo do documento XML nos conteúdos HTML:
 ##	A totalidade, ou parte, do conteúdo do documento XML deve ser integrado de forma dinâmica numa das páginas HTML utilizando javascript. A integração do conteúdo deve ocorrer através da transformação dos dados no documento XML para HTML. Por exemplo para uma Tabela.
 
-* Conforme dado no exemplo, utilizamos os dados em uma tabela na página  com auxilio de Javascript em .
+* Conforme dado no exemplo, utilizamos os dados em uma tabela na página com auxílio de Javascript.
            
 ###        Javascript:
             
@@ -402,6 +420,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
                 })
             
 ###            HTML:
+
             <table>
               <thead>
                   <tr>
@@ -424,7 +443,6 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
                   <td>tirou-se <strong>Quantidade</strong></td>
                 </tr>
                 <tr>
-                  
                   <td><a href="https://www.quecomem.com/o-que-as-baleias-jubarte-comem/">Quecomem.com</a></td>
                   <td>tirou-se <strong>o restante</strong></td>
                 </tr>
@@ -432,6 +450,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
             </table>
             
 ###            XML:
+
             <?xml version="1.0" encoding="UTF-8"?>
             <baleias 
             xmlns="https://www.w3schools.com"
@@ -459,16 +478,16 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	A definição de estilos deverá ser feita mediante a utilização de CSS externo e nunca inline;
 
-*           Não foram utilizados estilos inline.
+* Não foram utilizados estilos inline.
 
 ##	No final, todos os ficheiros HTML e CSS deverão ser válidos quando testados pelo validador da W3C;
 
-*           Todos os arquivos e suas validações podem ser encontrados no arquivo [Produto](../Documentacao/Produto.md)
+* Todos os arquivos e suas validações podem ser encontrados no arquivo [Produto](../Documentacao/Produto.md).
 
 ##	Deve existir a apresentação de pelo menos uma ajuda (tooltip) para o utilizador.
 
-*           Utilizamos de uma tooltip hover em um dos títulos de card na página [Reprodução](../src/pages/reprodução.html).
-*            Segue trecho do código CSS:
+* Utilizamos de uma tooltip hover em um dos títulos de card na página [Reprodução](../src/pages/reprodução.html).
+* Segue trecho do código CSS:
             
             #titleRepro:hover::after{
                 content: "Veja tudo sobre a reprodução no card ao lado!";
@@ -485,7 +504,8 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 #	Valoriza-se a integração (devidamente fundamentada durante a apresentação) de elementos adicionais aos estudados durante as aulas, como por exemplo:
 #	utilização de eventos JavaScript para manipular elementos HTML
-*            Utilizamos de um botão para subir ao topo da página que some e aparece dependendo da posição na página :
+
+* Utilizamos de um botão para subir ao topo da página que some e aparece dependendo da posição na página :
             
             let mybutton = document.getElementById("myBtn");
 
@@ -507,15 +527,17 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
             
 ##	Alteração do conteúdo de elementos.
             
-*            Não utilizamos desse atributo.
+* Não utilizamos desse atributo.
             
 ##	Alteração da apresentação (estilo) de elementos.
-*      Acreditamos que a alteração que fala é respectiva a alguma restrição ou regra via CSS, então sim utilizamos dentro de todos os Media queries.
+
+* Acreditamos que a alteração que aqui se discorre, é respectiva a alguma restrição ou regra via CSS, então, sim, utilizamos dentro de todos os Media queries.
             
 ##	Esconder/apresentar elementos.
-*           Utilizamos via Javascript em conjunto com CSS, segue trecho:
+
+* Utilizamos via Javascript em conjunto com CSS, segue trecho:
 	
-             let mybutton = document.getElementById("myBtn");
+            let mybutton = document.getElementById("myBtn");
 
             window.onscroll = function() {scrollFunction()};
 
@@ -534,20 +556,15 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
             }
             
 ##	uso dos elementos HTML: video, audio. canvas, ...
-*          Utilizamos um Iframe como elemento HTML na página :
+
+* Utilizamos um Iframe como elemento HTML na página :
 	
                   <iframe width="420" height="315" src="https://www.youtube.com/embed/tmq7Ccd8QuM">
                   </iframe>
+
 #	Relatório
-            O relatório pode ser encontrado [Aqui](README.md).
 
-
-
-
-
-
-
-
+* O relatório pode ser encontrado [Aqui](../README.md).
 
 
 ---
