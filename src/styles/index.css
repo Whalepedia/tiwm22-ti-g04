@@ -117,12 +117,6 @@ nav li {
   animation-direction: normal, alternate;
 }
 
-#CardArea p {
-  font-size: 26pt;
-  font-weight: bolder;
-  text-align: justify;
-  text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
-}
 
 #CardArea h1 {
   font-size: 34pt;
@@ -135,6 +129,7 @@ nav li {
   text-align: justify;
   text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
 }
+
 
 #myBtn {
   display: none;
@@ -334,7 +329,25 @@ strong {
 .colored {
   background-color: #2d9eb5;
 }
-
+#avisoWhatsapp{
+  position: fixed;
+  width: 20vw;
+  margin-right: 0%;
+  background-color: white;
+  padding: 1vh;
+  border-radius: 15px;
+  text-align: center;
+  z-index: 2;
+}
+#avisoWhatsapp button{
+  background-color: #002658;
+  color: white;
+  width: 20%;
+  border-radius: 15px;
+}
+.desabilitado{
+  display: none;
+}
 @keyframes go-back {
   from {
     transform: translateX(10px);
@@ -503,7 +516,7 @@ See https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp */
     margin-bottom: 10vh;
   }
 
-  #CardArea p {
+  #CardArea h1 + p {
     font-size: 18pt;
     font-weight: bolder;
     text-align: justify;
@@ -604,6 +617,20 @@ See https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp */
     margin-top: 300em;
     margin-left: 5%;
   }
+  #avisoWhatsapp{
+    position: fixed;
+    width: 60vw;
+    margin-right: 0%;
+    margin-bottom: 130vh;
+    background-color: white;
+    padding: 1vh;
+    border-radius: 15px;
+    text-align: center;
+    z-index: 2;
+  }
+  
+
+
 }
 /* Small devices (portrait tablets and large phones, 600px and max 1200px) */
 @media only screen and (min-width: 768px) and (max-width: 1290px) {

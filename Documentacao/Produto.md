@@ -55,31 +55,6 @@ Validações da página de curiosidades:
 ![image](https://user-images.githubusercontent.com/95709036/212465237-9af99172-bbf8-49da-8f13-230e09ba719c.png)
 ![image](https://user-images.githubusercontent.com/95709036/212465244-fe7edff4-4a94-4ea6-a256-e14ac244be7d.png)
 
-
-## 3.6 Implementação de detalhes
-○ tabela – com utilização de elementos/atributos thead, tbody, tfoot e rowspan e colspan;
-    _Utilizamos uma tabela que recebe dados de um arquivo XML com seu respectivos validador.
-    Segue link: https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html_
-    
-○ listas (ordenada, não ordenada, definições) com pelo menos uma lista aninhada;
- _utilizamos para descrever melhor alguns fatos. Segue link: https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html_
- 
-○ marcação correta de texto com destaque (uso de elementos em, strong, mark, …) com 
-alteração da formatação padrão através de CSS;
-_Temos exemplos por todas as páginas._
-
-○ imagens – utilização de elemento img e figure (c/ figcaption) e inserção por CSS;
- _Utilizamos na  inserção de um GIF sobre uma curiosidade. Segue link: https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html_
- 
-○ ligações (hyperlinks internos e externos);
- _Utilizamos de tag a para navegar entre nossas páginas no Nav e um botão pra it até o ID #baleiaAzul. Segue link:
- https://tiwm22-ti-g04.netlify.app e https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html_
-○ formulário.
-_Usamos dois formulários, ambos fictícios porém válidos.
-Segue link:
- https://tiwm22-ti-g04.netlify.app e https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html_
- 
- 
 ---
 
 < [Previous](Protótipo_e_mapa_site.md) | [^ Main](../README.md) | [Next >](Apresenta%C3%A7%C3%A3o.md)
