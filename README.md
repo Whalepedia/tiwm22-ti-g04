@@ -34,6 +34,9 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 # Galeria 1:
 
+* A comparação com os esboços iniciais (sketch e wireframes), bem como a forma de navegação do site, encontra-se no [Capítulo 2: Interface do usuário](https://github.com/Whalepedia/tiwm22-ti-g04/blob/main/Documentacao/Prot%C3%B3tipo_e_mapa_site.md#cap%C3%ADtulo-2-interface-do-usu%C3%A1rio).
+  
+
 | Páginas      | Imagens |
 | ----------- | ----------- |
 | Página principal (Index)    **_Observação: A página principal (index.html), é acessada na barra de navegação através da logotipo [Whalepédia](../src/images/LogoImg.png)_**    | ![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20Index%20parte%201.jpeg)![Mostra a página index](Documentacao/imagens/Imagens%20do%20site/página%20index%20parte%202.jpeg)       |
