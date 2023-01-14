@@ -32,7 +32,9 @@ Segue abaixo, a listagem de todas as páginas estáticas do projeto:
 ##	uso correto dos elementos section, article, nav, aside, address, header, footer, figure, main, div, ...
 
 * Verificação constante em: 
-Ex: <Nav>,<main>, <footer>, <address>, etc.
+Ex: 
+
+        <Nav>,<main>, <footer>, <address>, etc.
 
 - [Página inicial (index) Código HTML](../src/index.html).
 
@@ -122,13 +124,13 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
  
 * As marcações de texto foram implementadas em algumas das páginas, como por exemplo [index](../src/index.html). 
             
-      <footer>
-      <address>Autores: Amanda Reiko de Oliveira Sato - 43490 <br>
-                        Ana Clara Gonçalves Mota - 43451 <br>
-                        Maximiliano Marques Lopes - 42644
-      </address>
-      <p>Copyright ©2022 All rights reserved | <strong>Whalepédia</strong> 🐋 </p>
-    </footer>
+          <footer>
+          <address>Autores: Amanda Reiko de Oliveira Sato - 43490 <br>
+                            Ana Clara Gonçalves Mota - 43451 <br>
+                            Maximiliano Marques Lopes - 42644
+          </address>
+          <p>Copyright ©2022 All rights reserved | <strong>Whalepédia</strong> 🐋 </p>
+        </footer>
 
 ##	imagens – utilização de elemento img e figure (c/ figcaption) e inserção por CSS;
 
@@ -392,7 +394,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 #	Integração do conteúdo do documento XML nos conteúdos HTML:
 ##	A totalidade, ou parte, do conteúdo do documento XML deve ser integrado de forma dinâmica numa das páginas HTML utilizando javascript. A integração do conteúdo deve ocorrer através da transformação dos dados no documento XML para HTML. Por exemplo para uma Tabela.
 
-* Conforme dado no exemplo, utilizamos os dados em uma tabela na página  com auxílio de Javascript em .
+* Conforme dado no exemplo, utilizamos os dados em uma tabela na página com auxílio de Javascript.
            
 ###        Javascript:
             
@@ -559,7 +561,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 	
                   <iframe width="420" height="315" src="https://www.youtube.com/embed/tmq7Ccd8QuM">
                   </iframe>
-                  
+
 #	Relatório
 
 * O relatório pode ser encontrado [Aqui](../README.md).
