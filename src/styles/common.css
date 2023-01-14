@@ -515,7 +515,7 @@ See https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp */
     }
 
     #CardArea p {
-        font-size: 12pt;
+        font-size: 12pt !important;
         font-weight: bolder;
         text-align: justify;
         text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;

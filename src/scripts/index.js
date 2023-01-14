@@ -7,9 +7,12 @@
 function Colocar(){
     btn1.classList.add("colored")
 }
-function Validar(){
-    
+function desabilitarElemento(){
+    var avisoCard = document.getElementById("avisoWhatsapp")
+
+    avisoCard.classList.add("desabilitado")
 }
+
 
 function RetirarCheck(obj) {
     var manualClicado = document.querySelector(`#${obj}`);
