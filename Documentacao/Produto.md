@@ -36,6 +36,27 @@ _Não temos scripts para validação de inputs no form, apenas um REQUIRED nas t
 
 _Utilizamos o próprio validador da W3C para ambos os tipos de arquivos e como esperado, todos passaram sem erros apenas com "Info"._
 
+Validações da página inicial:
+![image](https://user-images.githubusercontent.com/95709036/212465137-4bafbb57-c5e2-4400-8392-0eb55048c7e7.png)
+![image](https://user-images.githubusercontent.com/95709036/212465146-3b617bf3-1ada-4417-b503-1b41d3fc6cab.png)
+
+Validações da página de espécies:
+![image](https://user-images.githubusercontent.com/95709036/212465161-8c120fa2-aa57-4c3f-a1e9-2ca9fd2df71f.png)
+![image](https://user-images.githubusercontent.com/95709036/212465165-ce0568bc-cc21-47e8-9e3a-f98f00e55180.png)
+
+Validações da página de alimentação:
+![image](https://user-images.githubusercontent.com/95709036/212465185-fd7463a3-19cd-4330-8d43-1429e456610a.png)
+![image](https://user-images.githubusercontent.com/95709036/212465197-9ffc3e69-50d4-4670-8f7b-b6cb27cf3bb3.png)
+
+Validações da página de reproduções:
+![image](https://user-images.githubusercontent.com/95709036/212465213-2cf8c341-bd34-40dc-9035-e2b3c15efacc.png)
+![image](https://user-images.githubusercontent.com/95709036/212465217-b98f946a-5f52-4c3a-b4e5-f48eec94bbaa.png)
+
+Validações da página de curiosidades:
+![image](https://user-images.githubusercontent.com/95709036/212465237-9af99172-bbf8-49da-8f13-230e09ba719c.png)
+![image](https://user-images.githubusercontent.com/95709036/212465244-fe7edff4-4a94-4ea6-a256-e14ac244be7d.png)
+
+
 ## 3.6 Implementação de detalhes
 ○ tabela – com utilização de elementos/atributos thead, tbody, tfoot e rowspan e colspan;
     _Utilizamos uma tabela que recebe dados de um arquivo XML com seu respectivos validador.
