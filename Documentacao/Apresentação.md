@@ -175,6 +175,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 ##	cada um dos tipo de seletores simples (tipo, id, classe, pseudo-classe e atributo);
 
 * Seguem trechos dos códigos CSS da página principal [Index CSS](../src/styles/index.css).
+	
             nav {
                 display: inline-flex;
                 width: 100%;
@@ -214,6 +215,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 ##	seletor de pseudo-elementos e seletor combinador;
 
 * Utilizado para efetivar um estilo em um irmão de h1 no elemento de ID CardArea na página [Index CSS](../src/styles/index.css).
+	
             #CardArea h1 + p {
               font-size: 26pt;
               font-weight: bolder;
@@ -252,7 +254,8 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	formatação de estilo para uma lista;
 
-*           utilização para a tag Nav na página principal [Index CSS](../src/styles/index.css).:
+*  utilização para a tag Nav na página principal [Index CSS](../src/styles/index.css).:
+	
             nav ul {
               display: inline-flex;
               flex-direction: row;
@@ -285,7 +288,8 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	manipulação dos 4 elementos de formatação da caixa de elementos HTML;
 
-*           A utilização desses estilos podem ser encontrados sem dificuldades ao longo de todos os arquivos de estilo mas segue um exemplo de código retirado da página principal [Index CSS](../src/styles/index.css):
+* A utilização desses estilos podem ser encontrados sem dificuldades ao longo de todos os arquivos de estilo mas segue um exemplo de código retirado da página principal [Index CSS](../src/styles/index.css):
+	
             #BotaoBaleiaAzul {
               background-color: rgba(255, 255, 255, 0.701);
               position: absolute;
@@ -303,6 +307,7 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 ##	utilização de propriedades de flutuação, de posicionamento e combinadas – flutuação e posicionamento;
 
 * Utilizamos essa propriedade na Nav na página princial [Index CSS](../src/styles/index.css):
+	
             nav ul {
               display: inline-flex;
               flex-direction: row;
@@ -335,7 +340,8 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	formatação de uma tabela;
 
-*           Utilizado para inserir alguns estilos na tabela na página [Alimentação](../src/pages/alimentacao.css).
+* Utilizado para inserir alguns estilos na tabela na página [Alimentação](../src/pages/alimentacao.css).
+	
             table, td, th {
                 border: 1px solid white;
               }
@@ -354,10 +360,10 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 *           Segue elemento trocado por imagem na página [Curiosidades](../src/pages/curiosidades.css)
             
             h1#topo {
-	width: 500px;
-	height: 290px;
-	background-image: url(../images/respiração_baleias.png);
-	}
+		width: 500px;
+		height: 290px;
+		background-image: url(../images/respiração_baleias.png);
+	    }
             
 ##	responsividade para duas dimensões de ecrã (media queries).
             
@@ -504,10 +510,11 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 *            Não utilizamos desse atributo.
             
 ##	Alteração da apresentação (estilo) de elementos.
-            *  Acreditamos que a alteração que fala é respectiva a alguma restrição ou regra via CSS, então sim utilizamos dentro de todos os Media queries.
+*      Acreditamos que a alteração que fala é respectiva a alguma restrição ou regra via CSS, então sim utilizamos dentro de todos os Media queries.
             
 ##	Esconder/apresentar elementos.
-            *  Utilizamos via Javascript em conjunto com CSS, segue trecho:
+*           Utilizamos via Javascript em conjunto com CSS, segue trecho:
+	
              let mybutton = document.getElementById("myBtn");
 
             window.onscroll = function() {scrollFunction()};
@@ -527,11 +534,12 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
             }
             
 ##	uso dos elementos HTML: video, audio. canvas, ...
-            * Utilizamos um Iframe como elemento HTML na página :
+*          Utilizamos um Iframe como elemento HTML na página :
+	
                   <iframe width="420" height="315" src="https://www.youtube.com/embed/tmq7Ccd8QuM">
                   </iframe>
 #	Relatório
-            O relatório pode ser encontrado [Aqui](../README.md).
+            O relatório pode ser encontrado [Aqui](README.md).
 
 
 
