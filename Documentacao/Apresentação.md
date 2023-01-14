@@ -80,7 +80,44 @@ Ex: <Nav>,<main>, <footer>, <address>, etc.
 
 ##	listas (ordenada, não ordenada, definições) com pelo menos uma lista aninhada;
 
-*
+* As listas foram implementadas na página de [curiosidades](../src/pages/curiosidades.html). 
+* Além das citadas abaixo, existem outros exemplos de lista na página curiosidades.
+
+* Lista ordenada, não ordenada e aninhada:
+
+        <ul>
+            <li>A beluga também é conhecida como baleia-branca ou beluca.</li>
+            <li>As belugas não têm barbatana dorsal, daí o nome “golfinho sem barbatana”, porém, não são golfinhos!</li>
+            <li>Há registros de belugas machos imitando a voz humana durante a transição da fase juvenil para a fase
+              adulta:
+              <ol>
+                <li>
+                  <p>Estudos citam que: uma baleia chamada de Noc confundiu o mergulhador de um grupo,
+                    que ouviu várias vezes a palavra fora em inglês. Em seguida descobriu que o aviso vinha de Noc.
+                  </p>
+                </li>
+
+                <li>
+                  <p>Dizem que as Belugas imitam as voz humana espontaneamente, como se o objetivo fosse bater mesmo um
+                    papo
+                    com seus cuidadores nos aquários. </p>
+                </li>
+              </ol>
+            </li>
+
+            <li>Ao contrário dos outros cetáceos que mostram algum grau de fusão cervical, com exceção dos baleias,
+              alguns gulfinhos do rio e os narvais, as sete vértebras cervicais não estão unidas entre si, o que lhe dá
+              flexibilidade ao girar a cabeça para os lados, sem a necessidade de girar o corpo.</li>
+
+        </ul>
+
+* Lista de definições: 
+
+          <dl>
+            <dt>A Orca, mais conhecida como baleia assassina é uma baleia?</dt>
+            <dd> Não! A orca, na verdade, é um golfinho!</dd> 
+          </dl>
+
 ##	marcação correta de texto com destaque (uso de elementos em, strong, mark, …) com alteração da formatação padrão através de CSS;
  
 * 
