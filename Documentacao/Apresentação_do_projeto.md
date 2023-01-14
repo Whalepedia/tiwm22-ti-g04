@@ -20,9 +20,9 @@ O design das páginas será criada de acordo com o tema escolhido e deverá apre
 
 O conteúdo terá prioritariamente, mas não exclusivamente, dois meios de comunicação, utilizando-se de imagens e de textos. Também contará com gifs e indicação de um vídeo acerca de curiosidades sobre as baleias da plataforma Youtube e também referencia outras páginas web, de onde parte do conteúdo foi retirada (como por exemplo, a informação da tabela constante na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. 
 
-No projeto foi incluida um formulário na página Inicial (index) para que os usuários do site possam enviar ou comentar sobre experiências que já tiveram anteriomente com esse maravilhoso animal. Além disso, caso o usuário deseje aprofundar seus conhecimentos sobre as baleias, poderá preencher um formulário com seu endereço de e-mail, solicitando mais informações acerca do tema. 
+No projeto foi incluido um formulário na página Inicial (index) para que os usuários do site possam enviar ou comentar sobre experiências que já tiveram anteriomente com esse maravilhoso animal. Além disso, caso o usuário deseje aprofundar seus conhecimentos sobre as baleias, poderá preencher um formulário com seu endereço de e-mail, solicitando mais informações acerca do tema. 
 
-O projeto também conta com 1 documento XML e seu respetivo schema para validação (XSD), o qual está integrado de forma orgânica parcialmente ao HTML, como consta na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. Taç integração foi feita utilizando a linguagem de programação Javascript e o CSS. Neste caso específico, optou-se por acrescentar a integração do XML a página de alimentação, slide 1, para guardar as informações da tabela apresentada. 
+O projeto também conta com 1 documento XML e seu respetivo schema para validação (XSD), o qual está integrado de forma orgânica parcialmente ao HTML, como consta na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. Tal integração foi feita utilizando a linguagem de programação Javascript e o CSS. Neste caso específico, optou-se por acrescentar a integração do XML a página de alimentação, slide 1, para guardar as informações da tabela apresentada. 
 
 Segue abaixo, a listagem de todas as páginas estáticas do projeto:
 
