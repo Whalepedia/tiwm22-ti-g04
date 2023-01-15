@@ -225,10 +225,7 @@ form{
     color: rgb(255, 255, 255);
     
   }
-iframe{
-    width:65vw;
-    margin-bottom: 2vh;
-}
+
 
 
 @-webkit-keyframes bloob {
@@ -540,7 +537,10 @@ See https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp */
         font-weight: bolder;
         text-shadow: rgba(255, 255, 255, 0.671) 3px 1.5px 1px;
     }
-    
+    iframe{
+        width:65vw;
+        margin-bottom: 2vh;
+    }
 }
 
 
