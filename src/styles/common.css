@@ -165,15 +165,18 @@ dd{
     text-shadow: rgba(255, 255, 255, 0.671) 1px 1px 1px;
 }
 
-h1#topo {
-	width: 500px;
-	height: 290px;
+h1#topo{
+	width: 65vw;
+	height: 20vh;
 	background-image: url(../images/respiração_baleias.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
 	}
 h1#topo span {
-	display: none;
-	}
-
+        display: none;
+    
+    }
 
 strong {
     color: #003477;
@@ -222,6 +225,11 @@ form{
     color: rgb(255, 255, 255);
     
   }
+iframe{
+    width:65vw;
+    margin-bottom: 2vh;
+}
+
 
 @-webkit-keyframes bloob {
     0% {
