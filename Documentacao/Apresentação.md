@@ -396,7 +396,15 @@ Ex:
 ##	substituição de um elemento por uma imagem;
 
 *           Segue elemento trocado por imagem na página [Curiosidades](../src/pages/curiosidades.css):
+
+* HTML:
+
+            <h1 id="topo">
+              <span>Como as baleias respiram se vivem no mar?</span>
+            </h1>
             
+* CSS:
+              
             h1#topo {
 	          	width: 500px;
 		          height: 290px;
