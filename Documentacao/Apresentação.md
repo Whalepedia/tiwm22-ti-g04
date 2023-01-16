@@ -27,11 +27,15 @@
 
 # Bibliografia usadas na pesquisa
 
-
+* 
 [Baleia-Azul](https://mundoeducacao.uol.com.br/biologia/baleia-azul.htm)
+* 
 [Baleia-Branca](https://pt.wikipedia.org/wiki/Baleia-branca)
+* 
 [Baleia-Jubarte](https://mundoeducacao.uol.com.br/biologia/baleia-azul.htm)
+* 
 [Baleia-JUbarte](https://pt.wikipedia.org/wiki/Baleia-jubarte)
+* 
 [Curiosidades](https://www.youtube.com/watch?v=tmq7Ccd8QuM)
 
 
