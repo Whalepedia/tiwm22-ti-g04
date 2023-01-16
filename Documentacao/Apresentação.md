@@ -25,6 +25,15 @@
 | Requisitos Mínimos | ![requisitos](/Documentacao/imagens/apresentacao/req1.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req2.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req3.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req4.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req5.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req6.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req7.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req8.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req9.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req10.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req11.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req12.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req13.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req14.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req15.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req16.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req17.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req18.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req19.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req20.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req21.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req22.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req23.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req24.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req25.jpg) ![requisitos](/Documentacao/imagens/apresentacao/req26.jpg) |
 | Conclusão | ![Final](/Documentacao/imagens/apresentacao/link.jpg) |
 
+# Bibliografia usadas na pesquisa
+
+
+[Baleia-Azul](https://mundoeducacao.uol.com.br/biologia/baleia-azul.htm)
+[Baleia-Branca](https://pt.wikipedia.org/wiki/Baleia-branca)
+[Baleia-Jubarte](https://mundoeducacao.uol.com.br/biologia/baleia-azul.htm)
+[Baleia-JUbarte](https://pt.wikipedia.org/wiki/Baleia-jubarte)
+[Curiosidades](https://www.youtube.com/watch?v=tmq7Ccd8QuM)
+
 
 < [Previous](Produto.md) | [^ Main](../README.md) | Next >
 :--- | :---: | ---: 
