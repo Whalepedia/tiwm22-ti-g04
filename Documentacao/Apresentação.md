@@ -1,3 +1,12 @@
+#	Relatório
+
+* O relatório pode ser encontrado [Aqui](../README.md).
+
+# Apresentação
+
+* A apresentação pode ser encontrada [Aqui](../Documentacao/Apresenta%C3%A7aotr.md)
+
+
 
 # Demonstração do cumprimento dos requisitos mínimos solicidados pelo Docente:
 
@@ -590,13 +599,7 @@ Ex:
                   <iframe width="420" height="315" src="https://www.youtube.com/embed/tmq7Ccd8QuM">
                   </iframe>
 
-#	Relatório
 
-* O relatório pode ser encontrado [Aqui](../README.md).
-
-# Apresentação
-
-* A aprentação pode ser encontrada [Aqui](../Documentacao/Apresenta%C3%A7aotr.md)
 
 
 ---
