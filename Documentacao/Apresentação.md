@@ -605,5 +605,5 @@ Ex:
 
 ---
 
-< [Previous](Produto.md) | [^ Main](../README.md) | [Next >](Apresenta%C3%A7aotr.md) >
+< [Previous](Produto.md) | [^ Main](../README.md) | [Next](Apresenta%C3%A7aotr.md) >
 :--- | :---: | ---: 
