@@ -86,8 +86,10 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
 ## Apresentação
 
- Capítulo 4: [Apresentação](Documentacao/Apresentação.md)
-
+ Capítulo 4: 
+ * [Apresentação](Documentacao/Apresentação.md)
+ * [Slides da apresentação](Documentacao/Apresentaçaotr.md)
+ 
 # Equipe:
 
 - [Amanda Reiko de Oliveira Sato](https://github.com/amanda-sato)
