@@ -55,7 +55,54 @@ Validações da página de curiosidades:
 ![image](https://user-images.githubusercontent.com/95709036/212465237-9af99172-bbf8-49da-8f13-230e09ba719c.png)
 ![image](https://user-images.githubusercontent.com/95709036/212465244-fe7edff4-4a94-4ea6-a256-e14ac244be7d.png)
 
-## 3.6 Nos documentos HTML deverá existir pelo menos um exemplo de:
+## 3.6 Demonstração do cumprimento dos requisitos mínimos solicidados pelo Docente:
+
+##	Área temática: “Animais”: 
+
+* O tema escolhido para o site são "baleias", o que condiz com o tema. 
+
+
+##	4 páginas HTML estáticas;
+
+* O site contém, atualmente, 5 (cinco) páginas estáticas. 
+
+Segue abaixo, a listagem de todas as páginas estáticas do projeto:
+
+- [Página inicial (index)](https://tiwm22-ti-g04.netlify.app/index.html): [Código HTML](../src/index.html), [Código CSS](../src/styles/index.css).
+
+- [Página Espécies](https://tiwm22-ti-g04.netlify.app/pages/especies.html): [Código HTML](../src/pages/especies.html), [Código CSS](../src/styles/escecies.css).
+
+- [Página Alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html): [Código HTML](../src/pages/alimentacao.html), [Código CSS](../src/styles/alimentacao.css).
+
+- [Página Reprodução](https://tiwm22-ti-g04.netlify.app/pages/reproducao.html): [Código HTML](../src/pages/reproducao.html), [Código CSS](../src/styles/common.css).
+
+- [Página Curiosidades](https://tiwm22-ti-g04.netlify.app/pages/curiosidades.html): [Código HTML](../src/pages/curiosidades.html), [Código CSS](../src/styles/common.css).
+
+
+##	1 documento XML e respetivo schema para validação
+
+* O projeto também conta com 1 documento [XML](../src/data/dataset.xml) e seu respetivo schema para validação ([XSD](../src/data/dataset.xsd)), o qual está integrado de forma orgânica parcialmente ao HTML, como consta na página [alimentação](https://tiwm22-ti-g04.netlify.app/pages/alimentacao.html), slide 1. Tal integração foi feita utilizando a linguagem de programação Javascript e o CSS. Neste caso específico, optou-se por acrescentar a integração do XML a página de alimentação, slide 1, para guardar as informações da tabela apresentada. 
+
+
+#	Os documentos HTML deverão apresentar uma correta marcação semântica do conteúdo:	
+
+##	uso correto dos elementos section, article, nav, aside, address, header, footer, figure, main, div, ...
+
+* Verificação constante em: 
+Ex: 
+
+        <Nav>,<main>, <footer>, <address>, etc.
+
+- [Página inicial (index) Código HTML](../src/index.html).
+
+- [Página Espécies Código HTML](../src/pages/especies.html).
+
+- [Página Alimentação Código HTML](../src/pages/alimentacao.html).
+
+- [Página Reprodução Código HTML](../src/pages/reproducao.html).
+
+- [Página Curiosidades Código HTML](../src/pages/curiosidades.html).
+## Nos documentos HTML deverá existir pelo menos um exemplo de:
 ##	tabela – com utilização de elementos/atributos thead, tbody, tfoot e rowspan e colspan;
 
 * Uma table com todos os requisitos elencados, foi utilizada no código HTML da página [Alimentação](../src/pages/alimentacao.html), linhas 47 a 74.
