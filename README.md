@@ -88,7 +88,7 @@ Assim, o presente trabalho terá como tema as Baleias, tendo como referência ap
 
  Capítulo 4: 
  * [Apresentação](Documentacao/Apresentação.md)
- * [Slides da apresentação](../tiwm22-ti-g04/Documentacao/Apresentaçaotr.md)
+ * [Slides da apresentação](Documentacao/Apresentaçaotr.md)
  
 # Equipe:
 
