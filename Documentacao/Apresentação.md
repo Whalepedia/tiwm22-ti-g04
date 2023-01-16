@@ -27,15 +27,18 @@
 
 # Bibliografia usadas na pesquisa
 
-* 
+* Baleia-Azul: 
 [Baleia-Azul](https://mundoeducacao.uol.com.br/biologia/baleia-azul.htm)
-* 
+
+* Baleia Branca:
 [Baleia-Branca](https://pt.wikipedia.org/wiki/Baleia-branca)
-* 
+
+* Jubarte:
 [Baleia-Jubarte](https://mundoeducacao.uol.com.br/biologia/baleia-azul.htm)
-* 
+
 [Baleia-JUbarte](https://pt.wikipedia.org/wiki/Baleia-jubarte)
-* 
+
+* Curiosidades sobre as baleias:
 [Curiosidades](https://www.youtube.com/watch?v=tmq7Ccd8QuM)
 
 
