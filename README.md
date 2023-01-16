@@ -9,6 +9,7 @@ O projeto a seguir detém como objetivo ser usado como critério avaliativo da d
 Assim, o presente trabalho terá como tema as Baleias, tendo como referência apenas alguns exemplos destes animais. Ao longo deste relatório, haverá maior debate acerca da descrição do tema, além de conter todo o processo de desenvolvimento, de acordo com os aspectos ditados pelo professor. 
 
 * [Organização no Github](https://github.com/Whalepedia)
+* [Repositório](https://github.com/Whalepedia/tiwm22-ti-g04)
 
 # Organização do Repositório:
 
