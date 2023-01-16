@@ -24,6 +24,15 @@ _Este projeto não possui acesso externo, estático,e também não possui sistem
 Confira o produto final em:
  https://tiwm22-ti-g04.netlify.app_
 
+- Parar abrir os arquivos em formato HTML:
+
+1) Pode-se acessar diretamente pelo próprio Browser, arrastando-se o arquivo .HTML desejado para o browser;
+
+2) Pela pasta do próprio repositório clonado, abrindo-se o prompt e digitando "npm run build", onde se criará uma pasta chamada "Build" para distribuição do Projeto.
+Caso já tenha o node.js e o npm instalados, basta rodar no prompt de comando o “npm start”.
+Caso ainda não tenha o node.js e o npm instalados, deve baixá-los, e retornar ao passo anterior ou abrir o arquivo pelo modo 1, por um browser. 
+
+
 ## 3.3 Acessebilidade do(a) Aplicação/Produto 
 _Nos preocupamos com a utilização da navegação apenas com a tecla TAB, SHIFT e ENTER. Podendo-se desconectar o mouse e utilizar apenas o teclado, não há suporte para tradução interna mas permitimos a utilização do recurso "Traduzir" do próprio Browser._
 
