@@ -1,4 +1,5 @@
-# C3 : Produto
+# Capítulo 3: Produto
+
 _Web site desenvolvido com o intuito de compartilhar de forma clara e objetiva curiosidades e fatos científicos sobre algumas espécies de baleias.
 Confira o produto final em:
  https://tiwm22-ti-g04.netlify.app_
